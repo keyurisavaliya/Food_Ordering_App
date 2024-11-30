@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quick Eats</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">696180890501-kjqtks4u16b3emal3e33lhc6o6vf79qh.apps.googleusercontent.com</string>
+</resources>
